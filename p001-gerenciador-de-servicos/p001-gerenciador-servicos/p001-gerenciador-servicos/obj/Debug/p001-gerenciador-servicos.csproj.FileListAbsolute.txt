@@ -1,0 +1,52 @@
+C:\Users\Odenir Gomes\source\repos\p001-gerenciador-servicos\p001-gerenciador-servicos\bin\Debug\p001-gerenciador-servicos.exe.config
+C:\Users\Odenir Gomes\source\repos\p001-gerenciador-servicos\p001-gerenciador-servicos\bin\Debug\p001-gerenciador-servicos.exe
+C:\Users\Odenir Gomes\source\repos\p001-gerenciador-servicos\p001-gerenciador-servicos\bin\Debug\p001-gerenciador-servicos.pdb
+C:\Users\Odenir Gomes\source\repos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001-gerenciador-servicos.csprojAssemblyReference.cache
+C:\Users\Odenir Gomes\source\repos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001_gerenciador_servicos.Menu.resources
+C:\Users\Odenir Gomes\source\repos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001_gerenciador_servicos.Properties.Resources.resources
+C:\Users\Odenir Gomes\source\repos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001-gerenciador-servicos.csproj.GenerateResource.cache
+C:\Users\Odenir Gomes\source\repos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001-gerenciador-servicos.csproj.CoreCompileInputs.cache
+C:\Users\Odenir Gomes\source\repos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001-gerenciador-servicos.exe
+C:\Users\Odenir Gomes\source\repos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001-gerenciador-servicos.pdb
+C:\Users\Odenir Gomes\source\repos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001_gerenciador_servicos.Clientes.resources
+C:\Users\Odenir Gomes\Projetos\P001 - Gerenciador de Serviços\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001-gerenciador-servicos.csprojAssemblyReference.cache
+C:\Users\Odenir Gomes\Projetos\P001 - Gerenciador de Serviços\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001_gerenciador_servicos.Clientes.resources
+C:\Users\Odenir Gomes\Projetos\P001 - Gerenciador de Serviços\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001_gerenciador_servicos.Menu.resources
+C:\Users\Odenir Gomes\Projetos\P001 - Gerenciador de Serviços\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001_gerenciador_servicos.Properties.Resources.resources
+C:\Users\Odenir Gomes\Projetos\P001 - Gerenciador de Serviços\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001-gerenciador-servicos.csproj.GenerateResource.cache
+C:\Users\Odenir Gomes\Projetos\P001 - Gerenciador de Serviços\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001-gerenciador-servicos.csproj.CoreCompileInputs.cache
+C:\Users\Odenir Gomes\Projetos\P001 - Gerenciador de Serviços\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001-gerenciador-servicos.exe
+C:\Users\Odenir Gomes\Projetos\P001 - Gerenciador de Serviços\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001-gerenciador-servicos.pdb
+C:\Users\Odenir Gomes\Projetos\P001 - Gerenciador de Serviços\p001-gerenciador-servicos\p001-gerenciador-servicos\bin\Debug\p001-gerenciador-servicos.exe.config
+C:\Users\Odenir Gomes\Projetos\P001 - Gerenciador de Serviços\p001-gerenciador-servicos\p001-gerenciador-servicos\bin\Debug\p001-gerenciador-servicos.exe
+C:\Users\Odenir Gomes\Projetos\P001 - Gerenciador de Serviços\p001-gerenciador-servicos\p001-gerenciador-servicos\bin\Debug\p001-gerenciador-servicos.pdb
+C:\Users\Odenir Gomes\Projetos\P001 - Gerenciador de Serviços\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001_gerenciador_servicos.Profissionais.resources
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\bin\Debug\p001-gerenciador-servicos.exe.config
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\bin\Debug\p001-gerenciador-servicos.exe
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\bin\Debug\p001-gerenciador-servicos.pdb
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001-gerenciador-servicos.csprojAssemblyReference.cache
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001_gerenciador_servicos.Profissionais.resources
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001_gerenciador_servicos.Menu.resources
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001_gerenciador_servicos.Properties.Resources.resources
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001-gerenciador-servicos.csproj.GenerateResource.cache
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001-gerenciador-servicos.csproj.CoreCompileInputs.cache
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001-gerenciador-servicos.exe
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001-gerenciador-servicos.pdb
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001_gerenciador_servicos.CadCliente.resources
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001_gerenciador_servicos.ListarClientes.resources
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001_gerenciador_servicos.Login.resources
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-de-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\bin\Debug\p001-gerenciador-servicos.exe.config
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-de-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\bin\Debug\p001-gerenciador-servicos.exe
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-de-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\bin\Debug\p001-gerenciador-servicos.pdb
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-de-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001-gerenciador-servicos.csprojAssemblyReference.cache
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-de-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001_gerenciador_servicos.CadCliente.resources
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-de-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001_gerenciador_servicos.ListarClientes.resources
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-de-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001_gerenciador_servicos.Login.resources
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-de-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001_gerenciador_servicos.Profissionais.resources
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-de-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001_gerenciador_servicos.Menu.resources
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-de-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001_gerenciador_servicos.Properties.Resources.resources
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-de-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001-gerenciador-servicos.csproj.GenerateResource.cache
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-de-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001-gerenciador-servicos.csproj.CoreCompileInputs.cache
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-de-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001-gerenciador-servicos.exe
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-de-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001-gerenciador-servicos.pdb
+C:\Users\Odenir Gomes\Projetos\p001-gerenciador-de-servicos\p001-gerenciador-servicos\p001-gerenciador-servicos\obj\Debug\p001_gerenciador_servicos.ListarCliente.resources
